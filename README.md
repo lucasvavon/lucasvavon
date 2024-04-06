@@ -4,9 +4,9 @@
 I'm a software developer.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 <!-- Add more badges from https://shields.io/ -->
 
 ## ⚙️ GitHub Stats
