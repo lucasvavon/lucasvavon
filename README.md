@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Lucas!
 
 ## About Me
-I'm a [Your Job Title/Position] specializing in [Areas of Specialization]. I have a passion for [Briefly Describe What You Are Passionate About] and love to work on projects that [What Kind of Projects You Like].
+I'm a software developer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -10,11 +10,11 @@ I'm a [Your Job Title/Position] specializing in [Areas of Specialization]. I hav
 <!-- Add more badges from https://shields.io/ -->
 
 ## ⚙️ GitHub Stats
-<a href="https://github.com/[YourGitHubUsername]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/lucasvavon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvavon&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/[YourGitHubUsername]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="[Your Name]'s GitHub Stats" />
+<a href="https://github.com/lucasvavon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvavon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="[Your Name]'s GitHub Stats" />
 </a>
 
 ## 📚 Projects
@@ -23,6 +23,7 @@ I'm a [Your Job Title/Position] specializing in [Areas of Specialization]. I hav
 <!-- Add more projects as needed -->
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Email: your.email@example.com
+- [Website](https://www.lucasvavon.com/)
+- [LinkedIn](https://www.linkedin.com/in/lucas-vavon/)
+- Email: lucasvavon@icloud.com
 <!-- Add other contact methods as preferred -->
