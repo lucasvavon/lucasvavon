@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Lucas!
-
-## About Me
-I'm a software developer.
+I'm a fullstack developer.
 
 ## 🔧 Technologies & Tools
 ![](https://shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F03C2E)
