@@ -2,9 +2,8 @@
 I'm a fullstack developer.
 
 ## 🔧 Technologies & Tools
-![](https://shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F03C2E)
 ![](https://shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1D63ED)
-![](https://shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
+![](https://shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=black&color=FFFFFF)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007BCD)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=787CB4)
 <!-- Add more badges from https://shields.io/ -->
