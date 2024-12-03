@@ -2,6 +2,7 @@
 I'm a fullstack developer.
 
 ## 🔧 Technologies & Tools
+![](https://shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
 ![](https://shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1D63ED)
 ![](https://shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=black&color=FFFFFF)
 ![](https://shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=black&color=59D1F6)
