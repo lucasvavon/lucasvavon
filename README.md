@@ -3,10 +3,9 @@ Fullstack DevOps with Go
 
 ## 🔧 Technologies & Tools
 ![](https://shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=black&color=59D1F6)
-![](https://shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1D63ED)
-![](https://shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=007BCD)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=787CB4)
+![](https://shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=1D63ED)
+
 <!-- Add more badges from https://shields.io/ -->
 
 ## ⚙️ GitHub Stats
