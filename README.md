@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Lucas!
-Fullstack DevOps with Go 
+# 👋 Hi, I'm Lucas, backend developer !
 
 ## 🔧 Technologies & Tools
 ![](https://shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=black&color=59D1F6)
